@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "/Users/cuneytaliustaoglu/Library/Arduino15/packages/esp8266/tools/**",
+                "/Users/cuneytaliustaoglu/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.1/**"
+            ]
+        }
+    ]
+}
